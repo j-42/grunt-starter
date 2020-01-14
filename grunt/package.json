@@ -1,0 +1,36 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "Jaz grut starter",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-42/grunt-starter.git"
+  },
+  "author": "Jaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-42/grunt-starter/issues"
+  },
+  "homepage": "https://github.com/j-42/grunt-starter#readme",
+  "devDependencies": {
+    "autoprefixer-stylus": "^1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-connect": "^2.1.0",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-csso": "^2.2.4",
+    "grunt-newer": "^1.3.0",
+    "load-grunt-tasks": "^5.1.0"
+  },
+  "dependencies": {
+    "grunt": "^1.0.4",
+    "install": "^0.13.0"
+  }
+}
